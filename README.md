@@ -1,6 +1,6 @@
 # Lottery_App
 
-Welcome to the Lottery Picker App! This simple application helps users pick random lottery numbers for PowerBall and Mega Millions.
+Welcome to the Lottery_App! This simple application helps users pick random lottery numbers for PowerBall and Mega Millions.
 
 - Random number generation for different lottery games.
 - Intuitive and user-friendly interface.
