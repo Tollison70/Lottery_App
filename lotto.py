@@ -32,6 +32,7 @@ def main():
     global root
     root = Tk()  # root or base window
     root.geometry('500x500')
+    root.iconbitmap('slawdogg.ico')
     root.title('Coley\'s Lottery Picker')
     w = Label(root, text='Choose a Game')
     w.pack(padx=10, pady=10)  # Put label in window
